@@ -1,0 +1,20 @@
+{
+  "name": "my_boilerplate",
+  "version": "1.0.0",
+  "description": "boilerplate grunt html5",
+  "author": "Newton Urbanetz",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-autoprefixer": "^3.0.4",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-concat": "^0.5.1",
+    "grunt-contrib-cssmin": "^1.0.0",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-nodeunit": "~0.4.1",
+    "grunt-contrib-uglify": "~0.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nsrau/my_boilerplate"
+  }
+}
